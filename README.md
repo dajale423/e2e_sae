@@ -1,5 +1,7 @@
 # e2e_sae
 
+This is same e2e_sae from Apollo Research, but I made the dependencies less strict.
+
 This library is used to train and evaluate Sparse Autoencoders (SAEs). It handles the following
 training types:
 - e2e (end-to-end): Loss function includes sparsity and final model kl_divergence.
